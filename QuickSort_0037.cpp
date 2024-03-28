@@ -93,3 +93,9 @@ if (low < j){ //step 11
 }
 
 
+void display() {
+    cout << "\n------------------" << endl;
+    cout << "Sorted Array" << endl;
+    cout << "------------------" << endl;
+
+    
